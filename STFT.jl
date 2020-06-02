@@ -1,4 +1,7 @@
 # Utilities for Short Time Fourier Transform
+#
+# ilker bayram, ibayram@ieee.org, 2020
+#
 # this file includes functions for computing
 # STFT
 # ISTFT : inverse ISTFT
